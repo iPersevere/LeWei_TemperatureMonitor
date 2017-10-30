@@ -1,0 +1,14 @@
+..\..\output\bsp_ds18b20.o: ..\..\User\ds18b20\bsp_ds18b20.c
+..\..\output\bsp_ds18b20.o: ..\..\User\./ds18b20/bsp_ds18b20.h
+..\..\output\bsp_ds18b20.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\bsp_ds18b20.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\bsp_ds18b20.o: E:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\bsp_ds18b20.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\bsp_ds18b20.o: ..\..\User\stm32f10x_conf.h
+..\..\output\bsp_ds18b20.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\bsp_ds18b20.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\bsp_ds18b20.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\bsp_ds18b20.o: ..\..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\..\output\bsp_ds18b20.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\bsp_ds18b20.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\output\bsp_ds18b20.o: ..\..\User\./systick/bsp_SysTick.h
